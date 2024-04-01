@@ -1,3 +1,5 @@
+-test
+-56 
 # python_pi_club
 This is the repo for the Code Next Connect club - Python on the Pi
 You will need a Raspberry Pi (3, 4, 400) and a Sense HAT unit.
