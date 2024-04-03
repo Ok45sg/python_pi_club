@@ -1,3 +1,4 @@
+example merged conflict 
 -test 2 
 -test
 -56 
